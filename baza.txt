@@ -1,0 +1,9 @@
+4894 Lviv       Kyiv      Ternopil     11 34 17 46 400
+1949 Ternopil   Petrove   Lviv         13 44 19 23 322
+3635 Poltava    Kyiv      Ternopil     10 34 17 46 734
+6334 Ternopil   Petrove   Poltava      13 44 19 23 322
+3535 Luhansk    Kyiv      Khmelnytskyi 09 56 17 46 555
+4573 Donetsk    Petrove   Lviv         13 44 19 23 1045
+3837 Kharkiv    Chernigiv Sumy         08 55 14 40 204
+7836 Sumy       Poltava   Petrove      06 53 12 32 334
+7435 Chernivtsi Lviv      Uzhorod      03 45 15 49 493
